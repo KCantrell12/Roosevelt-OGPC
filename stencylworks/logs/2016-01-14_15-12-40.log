@@ -1,0 +1,216 @@
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: Logfile: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\logs\2016-01-14_15-12-40.log
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: OS Name: Windows 7
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: OS Version: 6.1 (64-bit)
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_60
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: Stencyl Workspace: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: User Working Directory: C:\Program Files (x86)\Stencyl
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: User Home Directory: C:\Users\KCantrell5436
+2016-01-14 15:12:40,906 INFO  [main] stencyl.sw.Session: System Path: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\CCM;C:\WINDOWS\CCM;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Stencyl\runtimes\jre-win\bin
+2016-01-14 15:12:40,984 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCANTR~1\AppData\Local\Temp\stencyl1974810033777492884
+2016-01-14 15:12:40,984 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2016-01-14 15:12:40,984 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2016-01-14 15:12:40,984 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2016-01-14 15:12:40,999 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2016-01-14 15:12:41,015 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-phrases.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-errors.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-menu.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-welcome.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-dashboard.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-publish.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-updater.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-chat.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-misc.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-forge.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-prefs.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\global-creategame.lang
+2016-01-14 15:12:41,030 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-main.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blocks.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-blockhelp.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-events.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-code.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-attributes.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-create.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\behavior-byob.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-main.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-actor-physics.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-background.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-behaviorchooser.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-desktop.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-font.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-sound.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-tileset.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-preloader.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-mobile.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-groups.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-attributes.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-input.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-animation.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-main.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-create.lang
+2016-01-14 15:12:41,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang\en\editor-scene-tools.lang
+2016-01-14 15:12:41,046 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2016-01-14 15:12:41,062 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2016-01-14 15:12:41,654 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2016-01-14 15:12:41,654 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2016-01-14 15:12:41,654 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2016-01-14 15:12:41,654 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2016-01-14 15:12:41,654 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2016-01-14 15:12:41,654 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2016-01-14 15:12:41,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2016-01-14 15:12:41,686 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\extensions: []
+2016-01-14 15:12:41,686 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\extensions: []
+2016-01-14 15:12:41,686 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2016-01-14 15:12:41,686 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\engine-extensions: []
+2016-01-14 15:12:41,686 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: []
+2016-01-14 15:12:41,686 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2016-01-14 15:12:41,686 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2016-01-14 15:12:41,857 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2016-01-14 15:12:46,615 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Non-silent Authentication.
+2016-01-14 15:12:46,615 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2016-01-14 15:12:46,725 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: guest
+2016-01-14 15:12:46,725 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Could not log in. Check your login credentials.
+2016-01-14 15:13:00,905 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.settings.GamePropertiesDialog: Creating a blank game.
+2016-01-14 15:13:00,921 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving a new game.
+2016-01-14 15:13:00,921 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2016-01-14 15:13:00,937 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: File C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\game.xml is not a valid XML file. Aborting Backup.
+2016-01-14 15:13:03,074 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2016-01-14 15:13:03,089 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: File C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml is not a valid XML file. Aborting Backup.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\favorites.xml does not exist.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\favorites.xml does not exist.
+2016-01-14 15:13:03,089 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\prefs\picker-favorites.xml does not exist.
+2016-01-14 15:13:03,105 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2016-01-14 15:13:03,152 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl1974810033777492884\sandbox\test\temp
+2016-01-14 15:13:03,152 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\preview\scripts
+2016-01-14 15:13:03,152 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\preview\game
+2016-01-14 15:13:03,152 INFO  [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Opening game: Roosevelt OGPC
+2016-01-14 15:13:03,277 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2016-01-14 15:13:03,277 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl1974810033777492884\sandbox\build\code
+2016-01-14 15:13:03,308 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: C:\Users\KCantrell5436\AppData\Local\Temp\stencyl1974810033777492884\sandbox\test\temp
+2016-01-14 15:13:03,339 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 187ms
+2016-01-14 15:13:03,433 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2016-01-14 15:13:03,448 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2016-01-14 15:13:03,448 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2016-01-14 15:13:03,464 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2016-01-14 15:13:03,464 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2016-01-14 15:13:04,135 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2016-01-14 15:13:04,135 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2016-01-14 15:13:04,135 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2016-01-14 15:13:04,150 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2016-01-14 15:13:11,581 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.dialogs.ScenePropertiesPanel: This game has this num of scenes: 0
+2016-01-14 15:13:11,581 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.dialogs.ScenePropertiesPanel: Marking as default scene: 0
+2016-01-14 15:13:11,706 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Bedroom
+2016-01-14 15:13:11,815 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2016-01-14 15:13:11,987 DEBUG [pool-1-thread-1] stencyl.sw.util.NotifierHashMap: HashMapEvent [type=VALUE_ADDED, value=SceneEvents_0]
+2016-01-14 15:13:12,361 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2016-01-14 15:13:12,423 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2016-01-14 15:13:12,642 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2016-01-14 15:13:12,722 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2016-01-14 15:13:12,780 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2016-01-14 15:13:12,830 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2016-01-14 15:13:12,977 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2016-01-14 15:13:13,015 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2016-01-14 15:13:13,070 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2016-01-14 15:13:13,147 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2016-01-14 15:13:13,182 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2016-01-14 15:13:13,190 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2016-01-14 15:13:13,192 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2016-01-14 15:13:13,192 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2016-01-14 15:13:13,227 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: []
+2016-01-14 15:13:13,227 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2016-01-14 15:13:13,320 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Bedroom
+2016-01-14 15:13:13,489 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2016-01-14 15:13:13,489 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2016-01-14 15:13:13,489 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1783ms
+2016-01-14 15:13:13,535 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1829ms
+2016-01-14 15:13:15,563 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Close Game
+2016-01-14 15:13:16,905 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2016-01-14 15:13:16,952 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\game.xml.bak.
+2016-01-14 15:13:18,512 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2016-01-14 15:13:18,512 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\resources\data.xml.bak.
+2016-01-14 15:13:18,512 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2016-01-14 15:13:18,527 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\scenes\0.png
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2016-01-14 15:13:18,543 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2016-01-14 15:13:18,574 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene Bedroom
+2016-01-14 15:13:18,574 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2016-01-14 15:13:18,574 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets\list.xml.bak.
+2016-01-14 15:13:18,590 DEBUG [pool-1-thread-1] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: Bedroom
+2016-01-14 15:13:18,590 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2016-01-14 15:13:18,590 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\behavior-hx\SceneEvents_0.hx
+2016-01-14 15:13:18,590 DEBUG [pool-1-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\games\Roosevelt OGPC\snippets\SceneEvents_0.design
+2016-01-14 15:13:18,590 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2016-01-14 15:13:18,605 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2016-01-14 15:13:18,652 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Resetting workspace.
+2016-01-14 15:13:18,652 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2016-01-14 15:13:18,652 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: Bedroom0
+2016-01-14 15:13:18,699 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2016-01-14 15:14:11,769 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Preferences...
+2016-01-14 15:14:11,847 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of C:\Users\KCantrell5436\Documents\GitHub\Roosevelt-OGPC\stencylworks\lang. It does not exist or is not a directory.
+2016-01-14 15:14:11,847 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within lang: [lang\br, lang\de, lang\el, lang\en, lang\es, lang\fi, lang\fr, lang\it, lang\nl, lang\pl, lang\pt, lang\ru, lang\zh, lang\zh_CN]
+2016-01-14 15:14:11,847 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Breton in lang\br
+2016-01-14 15:14:11,847 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found German in lang\de
+2016-01-14 15:14:11,847 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Greek in lang\el
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found English in lang\en
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Spanish in lang\es
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Finnish in lang\fi
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found French in lang\fr
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Italian in lang\it
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Dutch in lang\nl
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Polish in lang\pl
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Portuguese in lang\pt
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Russian in lang\ru
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese in lang\zh
+2016-01-14 15:14:11,862 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese (China) in lang\zh_CN
